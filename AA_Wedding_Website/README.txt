@@ -1,0 +1,1 @@
+Replace hero.jpg and wedding.mp3 with your own assets.

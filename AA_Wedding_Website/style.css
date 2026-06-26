@@ -1,0 +1,1 @@
+body{margin:0;font-family:Georgia;background:#f6f0e8}.hero{min-height:100vh;display:flex;flex-direction:column;justify-content:center;align-items:center}#overlay{position:fixed;inset:0;display:flex;flex-direction:column;justify-content:center;align-items:center;background:#f6f0e8}
