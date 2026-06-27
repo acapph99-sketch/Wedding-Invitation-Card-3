@@ -1,0 +1,1 @@
+function openInvite(){document.getElementById('overlay').style.display='none';document.getElementById('bgm').play().catch(()=>{});}setInterval(()=>{const d=new Date('2026-09-02T12:00:00');let s=Math.max(0,Math.floor((d-new Date())/1000));document.getElementById('count').textContent=s+' seconds remaining';},1000);
